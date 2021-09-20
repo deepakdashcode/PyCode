@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PyCode</string>
+    <string name="enter_your_code_here">Enter your code here</string>
+    <string name="enter_your_inputs_here">Enter your inputs here</string>
+</resources>
